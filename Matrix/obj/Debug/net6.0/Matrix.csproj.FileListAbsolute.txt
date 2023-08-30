@@ -1,0 +1,12 @@
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\Users\nmri\Documents\shunsuke\cs\learning_cs\KalmanFilter\Matrix\obj\Debug\net6.0\ref\Matrix.dll
